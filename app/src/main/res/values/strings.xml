@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Galleria</string>
+    <string name="seven_wonders">Galleria</string>
+    <string name="the_seven_wonders">The 7 Wonders of the World</string>
+
+    <string name="machu_picchu">Machu Picchu</string>
+    <string name="mp_location">Cuzco Region, Peru</string>
+    <string name="mp_year"></string>
+
+    <string name="taj_mahal">Taj Mahal</string>
+    <string name="tm_location">Agra, India</string>
+    <string name="tm_year">AD 1643</string>
+
+    <string name="christ_the_redeemer">Christ the Redeemer</string>
+    <string name="ctr_location">Rio de Janeiro, Brazil</string>
+    <string name="ctr_year">AD 1931</string>
+
+    <string name="greatwall_of_china">Great Wall of China</string>
+    <string name="g_o_c_location">China</string>
+    <string name="goc_year">700 BC</string>
+
+    <string name="chichen_itza">Chichen Itza</string>
+    <string name="ci_location">Yucatan, Mexico</string>
+    <string name="ci_year">AD 600</string>
+
+    <string name="roman_colosseum">Colosseum</string>
+    <string name="rc_location">Rome, Italy</string>
+    <string name="rc_year">AD 80</string>
+
+    <string name="petra">Petra</string>
+    <string name="pt_location">Ma\'an, Jordan</string>
+    <string name="pt_year">AD 80</string>
+
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+</resources>
