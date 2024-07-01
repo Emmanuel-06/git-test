@@ -1,7 +1,2 @@
-New branch text file
-
-
-I'm trying to add something here
-
-This is a massa branch
+New branch text file, created in the 'master-branch' new repository.
 
